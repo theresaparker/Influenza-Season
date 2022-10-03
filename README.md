@@ -14,6 +14,8 @@ Predictive analysis on influenza trends to advise of medical staffing needs for 
 # Tools Used in the Project
 1. Excel
 2. Tableau for Dashboard and Story
+3. Word for Interim Report
+
 # Data
 "Influenza deaths by geography, time, age, and gender"  Dataset provided by CareerFoundry from the CDC. 
 
